@@ -1,4 +1,6 @@
-D 'DEA': Data envelopment analysis
+D 'mces': Standardized effect sizes for comparisons between predicted values of continuous outcome variables after margins or mimrgns Use mces With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F mces.ado
+F mces.sthlp
+F svysd.ado
+F svysd.sthlp
